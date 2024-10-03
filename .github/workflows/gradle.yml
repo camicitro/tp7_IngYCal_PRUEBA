@@ -57,7 +57,7 @@ jobs:
 
       - name: Build frontend
         run: npm run build --configuration production
-        working-directory: /frontend/front-angular/dist/
+        working-directory: /frontend/front-angular
 
       - name: Deploy to Firebase Hosting
         env:
