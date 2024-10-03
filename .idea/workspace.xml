@@ -4,53 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="496fdf88-0633-45a3-ac27-b365497273b1" name="Changes" comment="&quot;a&quot;">
-      <change afterPath="$PROJECT_DIR$/frontend/front-angular/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/front-angular/.firebaserc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/front-angular/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/front-angular/.vscode/extensions.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/front-angular/.vscode/launch.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/front-angular/.vscode/tasks.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/front-angular/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/front-angular/angular.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/front-angular/firebase.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/front-angular/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/front-angular/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/front-angular/src/app/app.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/front-angular/src/app/app.component.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/front-angular/src/app/app.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/front-angular/src/app/app.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/front-angular/src/app/app.config.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/front-angular/src/app/app.routes.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/front-angular/src/assets/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/front-angular/src/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/front-angular/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/front-angular/src/main.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/front-angular/src/styles.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/front-angular/tsconfig.app.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/front-angular/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/front-angular/tsconfig.spec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.8/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.8/checksums/checksums.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.8/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.8/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/checkstyle/checkstyle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/tp4/Tp4Application.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/tp4/entities/DetalleVenta.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/tp4/entities/EstadoVenta.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/tp4/entities/Venta.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/tp4/repositories/VentaRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/tp4/services/VentaService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/tp4/Tp4ApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/tp4/integration/Tp4IntegrationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/application-test.yml" beforeDir="false" />
-    </list>
+    <list default="true" id="496fdf88-0633-45a3-ac27-b365497273b1" name="Changes" comment="&quot;a&quot;" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -103,7 +57,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "android.gradle.sync.needed": "true",
-    "git-widget-placeholder": "Merging nueva-rama-prueba",
+    "git-widget-placeholder": "develop",
     "last_opened_file_path": "D:/CAMILA/FACULTAD/4 AÑO/Ingenieria y Calidad de Software/Practica/TP7/pipeline/tp7_IngYCal_PRUEBA",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -115,6 +69,9 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\CAMILA\FACULTAD\4 AÑO\Ingenieria y Calidad de Software\Practica\TP7\pipeline\tp7_IngYCal_PRUEBA" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\CAMILA\FACULTAD\4 AÑO\Ingenieria y Calidad de Software\Practica\TP7\pipeline\tp7_IngYCal_PRUEBA" />
       <recent name="D:\CAMILA\FACULTAD\4 AÑO\Ingenieria y Calidad de Software\Practica\TP7\pipeline\tp7_IngYCal_PRUEBA\backend" />
