@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="496fdf88-0633-45a3-ac27-b365497273b1" name="Changes" comment="&quot;a&quot;" />
+    <list default="true" id="496fdf88-0633-45a3-ac27-b365497273b1" name="Changes" comment="&quot;a&quot;">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,7 +58,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "develop",
+    "git-widget-placeholder": "nueva-rama-prueba",
     "last_opened_file_path": "D:/CAMILA/FACULTAD/4 AÑO/Ingenieria y Calidad de Software/Practica/TP7/pipeline/tp7_IngYCal_PRUEBA",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
