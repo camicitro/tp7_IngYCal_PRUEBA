@@ -4,34 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="496fdf88-0633-45a3-ac27-b365497273b1" name="Changes" comment="&quot;a&quot;">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/.github/workflows/gradle.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/config/checkstyle/checkstyle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/src/main/java/com/example/tp4/Tp4Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/src/main/java/com/example/tp4/entities/DetalleVenta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/src/main/java/com/example/tp4/entities/EstadoVenta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/src/main/java/com/example/tp4/entities/Venta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/src/main/java/com/example/tp4/repositories/VentaRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/src/main/java/com/example/tp4/services/VentaService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/src/test/java/com/example/tp4/Tp4ApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/src/test/java/com/example/tp4/integration/Tp4IntegrationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/src/test/resources/application-test.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/front-angular/.angular/cache/17.3.10/front-angular/.tsbuildinfo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/front-angular/dist/my-angular-app/3rdpartylicenses.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/front-angular/dist/my-angular-app/browser/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/front-angular/dist/my-angular-app/browser/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/front-angular/dist/my-angular-app/browser/main-JUREGQNS.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/front-angular/dist/my-angular-app/browser/polyfills-FFHMD2TL.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/front-angular/dist/my-angular-app/browser/styles-5INURTSO.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/front-angular/dist/my-angular-app/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="496fdf88-0633-45a3-ac27-b365497273b1" name="Changes" comment="&quot;a&quot;" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -83,8 +56,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "android.gradle.sync.needed": "true",
-    "git-widget-placeholder": "Merging prueba-firebase",
+    "git-widget-placeholder": "develop",
     "last_opened_file_path": "D:/CAMILA/FACULTAD/4 AÑO/Ingenieria y Calidad de Software/Practica/TP7/pipeline/tp7_IngYCal_PRUEBA",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",

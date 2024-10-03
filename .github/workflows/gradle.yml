@@ -1,8 +1,6 @@
 name: Java CI with Gradle
 
 on:
-  push:
-    branches: ["develop"]
   pull_request:
     branches: ["develop"]
 
@@ -46,3 +44,24 @@ jobs:
 
       - name: Check code quality with Linter
         run: ./gradlew check
+
+      # despliegue con firebase:
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '16'
+
+      - name: Install dependencies
+        run: npm install
+        working-directory: ./frontend/my-angular-app
+
+      - name: Build frontend
+        run: npm run build --configuration production
+        working-directory: ./frontend/my-angular-app
+
+      - name: Deploy to Firebase Hosting
+        env:
+          FIREBASE_SERVICE_ACCOUNT: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
+        run: |
+          echo $FIREBASE_SERVICE_ACCOUNT > firebase-key.json
+          firebase deploy --token "$(cat firebase-key.json)"
