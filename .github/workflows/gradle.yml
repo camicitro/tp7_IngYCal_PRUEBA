@@ -53,11 +53,11 @@ jobs:
 
       - name: Install dependencies
         run: npm install
-        working-directory: /frontend/front-angular
+        working-directory: /frontend/front-angular/dist/my-angular-app
 
       - name: Build frontend
         run: npm run build --configuration production
-        working-directory: /frontend/front-angular
+        working-directory: /frontend/front-angular/dist/
 
       - name: Deploy to Firebase Hosting
         env:
