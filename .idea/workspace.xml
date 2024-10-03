@@ -4,26 +4,33 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="496fdf88-0633-45a3-ac27-b365497273b1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/gradle.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/checkstyle/checkstyle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/tp4/Tp4Application.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/tp4/entities/DetalleVenta.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/tp4/entities/EstadoVenta.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/tp4/entities/Venta.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/tp4/repositories/VentaRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/tp4/services/VentaService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/tp4/Tp4ApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/tp4/integration/Tp4IntegrationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/application-test.yml" beforeDir="false" />
+    <list default="true" id="496fdf88-0633-45a3-ac27-b365497273b1" name="Changes" comment="&quot;a&quot;">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/.github/workflows/gradle.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/config/checkstyle/checkstyle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/com/example/tp4/Tp4Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/com/example/tp4/entities/DetalleVenta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/com/example/tp4/entities/EstadoVenta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/com/example/tp4/entities/Venta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/com/example/tp4/repositories/VentaRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/com/example/tp4/services/VentaService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/test/java/com/example/tp4/Tp4ApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/test/java/com/example/tp4/integration/Tp4IntegrationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/test/resources/application-test.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/front-angular/.angular/cache/17.3.10/front-angular/.tsbuildinfo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/front-angular/dist/my-angular-app/3rdpartylicenses.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/front-angular/dist/my-angular-app/browser/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/front-angular/dist/my-angular-app/browser/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/front-angular/dist/my-angular-app/browser/main-JUREGQNS.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/front-angular/dist/my-angular-app/browser/polyfills-FFHMD2TL.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/front-angular/dist/my-angular-app/browser/styles-5INURTSO.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/front-angular/dist/my-angular-app/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +83,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "prueba-firebase",
+    "android.gradle.sync.needed": "true",
+    "git-widget-placeholder": "Merging prueba-firebase",
     "last_opened_file_path": "D:/CAMILA/FACULTAD/4 AÑO/Ingenieria y Calidad de Software/Practica/TP7/pipeline/tp7_IngYCal_PRUEBA",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -89,6 +97,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\CAMILA\FACULTAD\4 AÑO\Ingenieria y Calidad de Software\Practica\TP7\pipeline\tp7_IngYCal_PRUEBA" />
       <recent name="D:\CAMILA\FACULTAD\4 AÑO\Ingenieria y Calidad de Software\Practica\TP7\pipeline\tp7_IngYCal_PRUEBA\backend" />
       <recent name="D:\CAMILA\FACULTAD\4 AÑO\Ingenieria y Calidad de Software\Practica\TP7\pipeline\tp7_IngYCal_PRUEBA\src\main\java\com\example\tp4" />
     </key>
@@ -112,12 +121,25 @@
       <option name="presentableId" value="Default" />
       <updated>1727887090926</updated>
       <workItem from="1727887091920" duration="9909000" />
-      <workItem from="1727917376400" duration="1884000" />
+      <workItem from="1727917376400" duration="2365000" />
     </task>
+    <task id="LOCAL-00001" summary="&quot;a&quot;">
+      <option name="closed" value="true" />
+      <created>1727919307811</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1727919307811</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="&quot;a&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;a&quot;" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
